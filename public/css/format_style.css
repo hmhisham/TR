@@ -1,0 +1,15 @@
+
+.table-hover tbody tr:hover {
+    color: #212329 !important;
+    background-color: rgba(163, 111, 33, 0.075) !important ;
+  }
+
+  .table-primary,
+  .table-primary > th,
+  .table-primary > td {
+    background-color: #c6d6f5;
+  }
+
+  .modal-footer {
+    display: block !important;
+}

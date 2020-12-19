@@ -1,0 +1,19 @@
+
+.table-hover tbody tr:hover {
+    color: #212329 !important;
+    background-color: #e4c95181 !important;
+  }
+
+
+
+
+
+
+.table th, .table td {
+
+    vertical-align: center !important;
+    border-top: 1px solid #dde2ef  ;
+    text-align: center !important;
+     color: #212329 !important;
+   
+}
